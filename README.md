@@ -11,6 +11,8 @@ O projeto Challenger Amigo Secreto é uma aplicação web desenvolvida utilizand
 
 - ``HTML`` - Para estruturação da página.
 
+- ``CSS`` - Para estilização da página.
+
 # :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Cadastro de participantes.
